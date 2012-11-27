@@ -4,3 +4,5 @@ edit file in class googleAnalytics.php
 +    public $password = "email password";     
 +    public $profile = "ga Google analytics profile id"; ex: "ga:16729"   
 +    public $authToken = NULL; 
+
+##Demo http://www.ozan-rock.com/googleanalytics
