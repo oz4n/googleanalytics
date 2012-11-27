@@ -1,0 +1,46 @@
+table.reportHolder {
+    border: 1px solid #999;
+}
+
+table.reportHolder th {
+    border: 1px solid #ccc;
+    background-color: #ccc;
+    padding: 2px;
+}
+
+table.reportHolder td.chart {
+    border: 1px dashed #ccc;
+    height: 300px;
+    vertical-align: top;
+}
+
+table.summary {
+    margin: 0;
+    padding: 0;
+}
+
+table.summary th {
+    text-align: right;
+    background-color: #ccc;
+    width: 15%;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+table.summary td {
+    width: 35%;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+div.chartholder {
+    height: 98%;
+    width: 98%;
+    text-align: center;
+    margin: 5px;
+}
+
+
+#google-visualization-geomap-0{
+    background-color:eaf7fe;
+}
